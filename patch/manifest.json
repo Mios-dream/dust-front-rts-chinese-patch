@@ -1,0 +1,22 @@
+{
+  "game": "Dust Front RTS",
+  "unity": "2020.3.3f1",
+  "source_resource": "Dust Front RTS_Data/resources.assets",
+  "source_sha256": "9942986e756fc44701cd1c1e64f5c49b52a40367b5efa86b69261d7f3342d723",
+  "patched_sha256": "0e46af614e8b77b28028cc42a10c7277d9f601e1cbcdaa9a8dd8f609a59a0e92",
+  "text_assets": {
+    "Localization_DUST_FRONT - Tutorial-locals": {
+      "translated": 70,
+      "total": 70,
+      "path_id": 174
+    },
+    "Localization_DUST_FRONT - Main": {
+      "translated": 635,
+      "total": 635,
+      "path_id": 176
+    }
+  },
+  "embedded_font": "Noto Sans CJK SC subset",
+  "embedded_font_bytes": 480588,
+  "source_font_license": "SIL Open Font License 1.1; see OFL.txt"
+}

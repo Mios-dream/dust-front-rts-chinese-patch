@@ -1,0 +1,31 @@
+# Original game installation files
+/*.exe
+/*.dll
+/*_Data/
+/Settings.json
+
+# Generated patch archives and test copies
+/dist/
+/work/
+/*.log
+*.bak.*
+*.assets
+*.resS
+*.resource
+
+# Reverse-engineering tools and generated metadata
+/tools/vendor/
+
+# Generated font subset
+/tools/assets/DustFront-CN-subset.otf
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.uv/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/

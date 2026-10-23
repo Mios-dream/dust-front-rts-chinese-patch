@@ -1,0 +1,10 @@
+[project]
+name = "dust-front-rts-chinese-patch-tools"
+version = "0.1.0"
+description = "Build tools and translation data for the Dust Front RTS Chinese patch"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "UnityPy==1.25.4",
+    "TypeTreeGeneratorAPI==0.0.10",
+    "fonttools==4.67.0",
+]
