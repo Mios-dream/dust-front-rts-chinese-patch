@@ -1,5 +1,7 @@
 # Dust Front RTS 中文翻译补丁
 
+![Dust Front RTS 中文翻译补丁封面](assets/cover.jpg)
+
 这是 Dust Front RTS Windows 版的中文翻译补丁项目，针对 Unity `2020.3.3f1` 制作。
 
 ## 直接安装
